@@ -53,18 +53,18 @@ Your task is to create three components
 **- QuizComponent**
 **- ResultComponent**
 
-**Note: use rcc to generate the code template**.  
+**Note: use rcc to generate the code template. Please keep everything as a static output on the stage - 1. We will make it dynamic over the course**.  
 
 So let's get started!
 Check below to see the overall output: You will be trying to replicate this
 
-#### HomeComponent
+### PROGRESSION 1 | HOMECOMPONENT
 ![Image description](https://i1.faceprep.in/ProGrad/q1.PNG)
 
-#### QuizComponent
+### PROGRESSION 2 | QUIZCOMPONENT
 ![Image description](https://i1.faceprep.in/ProGrad/q2.PNG)
 
-#### ResultComponent
+### PROGRESSION 3 | RESULTCOMPONENT
 ![Image description](https://i1.faceprep.in/ProGrad/q3.PNG)
 
 
